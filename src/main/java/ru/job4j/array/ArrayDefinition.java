@@ -17,7 +17,7 @@ public class ArrayDefinition {
         names[3] = "Petr Sergeev";
             for (String number : names) {
                 System.out.println(number);
-            };
+            }
         }
     }
 
